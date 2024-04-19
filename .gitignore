@@ -1,1 +1,5 @@
 .DS_Store
+# Ignorer le dossier virtuel Python
+env/
+venv/
+
