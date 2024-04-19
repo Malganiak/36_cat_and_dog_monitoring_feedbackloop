@@ -1,5 +1,7 @@
 # 36_cat_and_dog_monitoring_feedbackloop
 
+### Attention de ne pas oublier de lancer mlflow avant le script .py avec la commande : mlflow ui --port 5001 ###
+
 Ce projet est une application Flask qui met en œuvre un système de classification d'images entre chats et chiens. Voici un aperçu des fonctionnalités principales de l'application :
 
 Importation des bibliothèques nécessaires, y compris Flask pour le développement web, numpy pour le traitement des tableaux, et des modules de Keras et scikit-learn pour le modèle de classification.
